@@ -3,7 +3,6 @@
 SummarizeSense is an AI-based text summarizer that automatically compresses long text into short, meaningful summaries. It uses the **T5 Transformer model**, requiring **no training** and runs instantly with a simple web interface built in **Streamlit**.
 
 ---
-
 ## ✨ Features
 - ⚡ Real-time text summarization
 - 🧠 Powered by the T5-small Transformer model

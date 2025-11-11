@@ -9,7 +9,6 @@ SummarizeSense is an AI-based text summarizer that automatically compresses long
 - ✅ No dataset or training required
 - 🌐 Clean and simple Streamlit-based UI
 - 🔄 Adjustable summary length control
-
 ---
 
 ## 🎯 Emotions Detected

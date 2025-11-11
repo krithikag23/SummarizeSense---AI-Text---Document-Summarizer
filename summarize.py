@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1jC1tJUKlsgb2BFYrr0n4eqP7_GW3jWGT
 """
 
-pip install transformers torch streamlit
-
 from transformers import T5ForConditionalGeneration, T5Tokenizer
 
 # Load pre-trained model

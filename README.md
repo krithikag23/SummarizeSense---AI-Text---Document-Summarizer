@@ -15,7 +15,6 @@ SummarizeSense is an AI-based text summarizer that automatically compresses long
 This project focuses on **summarization only**, not sentiment detection.
 
 ---
-
 ## 🛠️ Installation
 
 ### 1) Clone the Repository

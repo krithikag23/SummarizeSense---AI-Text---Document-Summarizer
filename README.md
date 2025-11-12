@@ -16,7 +16,6 @@ This project focuses on **summarization only**, not sentiment detection.
 
 ---
 ## 🛠️ Installation
-
 ### 1) Clone the Repository
 ```bash
 git clone https://github.com/<your-username>/SummarizeSense-AI.git
